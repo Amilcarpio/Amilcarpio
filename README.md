@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Amilcarpio
-- 👀 I’m interested in work with full-stack development
-- 🌱 I’m currently learning Science Computer
-- 💞️ I’m looking to collaborate on new features or with legacy features
-- 📫 How to reach me https://www.linkedin.com/in/amilcarpio/
-<div style='display:inline-block'>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amilcarpio&show_icons=true&theme=highcontrast"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amilcarpio&layout=compact&theme=highcontrast"/>
-</div>
+👋 Hi, I’m Amilcar Pio
 
+Full-Stack Software Engineer with a strong focus on backend systems, working with Node.js, TypeScript, Python, Go, and C#. I design and implement scalable APIs, distributed services, and event-driven architectures, and I have practical experience building RAG and LLM-powered features.
+
+On the frontend, I work comfortably with React, Angular, Vue.js, and Svelte, always prioritizing maintainability and consistency across the stack. My background includes integrations with third-party platforms, secure data workflows, and cloud-native development on AWS, Azure, and GCP.
+
+I care about clean engineering practices, clear communication, and building solutions that developers enjoy maintaining and extending.
+
+📫 Connect with me: https://www.linkedin.com/in/amilcarpio/
